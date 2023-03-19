@@ -1,0 +1,51 @@
+.top-container
+{
+    background-color:#EEEEEE;   
+   margin:0px;
+   padding-top: 60px;
+    position: relative;
+}
+body
+{
+    margin:0px;    
+    text-align: center;
+    
+    
+    
+}
+h1{
+    margin:0;
+    font-family: 'Charm', cursive;
+}
+p
+{
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+.top-cloud
+{
+    position: absolute;
+    right:520px;
+    top:20px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left:490px;
+    bottom:320px;
+}
+.guitar
+{
+    display: inline-block;
+    position: relative;
+}
+.ps4
+{
+    display: inline-block;
+    position: relative;
+}
